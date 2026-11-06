@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 700" role="img" aria-label="A geometric letter matrix">
+<defs><pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".5" fill="#6b819d" opacity=".22"/></pattern><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#0d1929"/><stop offset="1" stop-color="#080e18"/></linearGradient></defs>
+<rect width="820" height="700" rx="12" fill="url(#bg)"/><rect width="820" height="700" rx="12" fill="url(#grain)"/>
+<g fill="none" stroke="#30465f" stroke-width="1"><path d="M90 74H730M90 620H730"/><path d="M410 56V642" stroke-dasharray="2 8" opacity=".5"/></g>
+<g font-family="monospace" font-size="11" fill="#70859f" letter-spacing="3"><text x="92" y="56">PLATE 01</text><text x="728" y="56" text-anchor="end">5 × 5</text></g>
+<g transform="translate(190 100)" font-family="monospace" font-size="38" text-anchor="middle" dominant-baseline="middle">
+<rect x="0" y="0" width="72" height="72" rx="7" fill="#13243a" stroke="#b69b68" stroke-width="2"/>
+<text x="36" y="38" fill="#e9d39b">O</text>
+<rect x="88" y="0" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="124" y="38" fill="#b6c4d5">W</text>
+<rect x="176" y="0" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="212" y="38" fill="#b6c4d5">E</text>
+<rect x="264" y="0" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="300" y="38" fill="#b6c4d5">R</text>
+<rect x="352" y="0" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="388" y="38" fill="#b6c4d5">T</text>
+<rect x="0" y="88" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="36" y="126" fill="#b6c4d5">O</text>
+<rect x="88" y="88" width="72" height="72" rx="7" fill="#13243a" stroke="#b69b68" stroke-width="2"/>
+<text x="124" y="126" fill="#e9d39b">R</text>
+<rect x="176" y="88" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="212" y="126" fill="#b6c4d5">B</text>
+<rect x="264" y="88" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="300" y="126" fill="#b6c4d5">I</text>
+<rect x="352" y="88" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="388" y="126" fill="#b6c4d5">T</text>
+<rect x="0" y="176" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="36" y="214" fill="#b6c4d5">A</text>
+<rect x="88" y="176" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="124" y="214" fill="#b6c4d5">S</text>
+<rect x="176" y="176" width="72" height="72" rx="7" fill="#13243a" stroke="#b69b68" stroke-width="2"/>
+<text x="212" y="214" fill="#e9d39b">B</text>
+<rect x="264" y="176" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="300" y="214" fill="#b6c4d5">F</text>
+<rect x="352" y="176" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="388" y="214" fill="#b6c4d5">G</text>
+<rect x="0" y="264" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="36" y="302" fill="#b6c4d5">Z</text>
+<rect x="88" y="264" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="124" y="302" fill="#b6c4d5">X</text>
+<rect x="176" y="264" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="212" y="302" fill="#b6c4d5">C</text>
+<rect x="264" y="264" width="72" height="72" rx="7" fill="#13243a" stroke="#b69b68" stroke-width="2"/>
+<text x="300" y="302" fill="#e9d39b">D</text>
+<rect x="352" y="264" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="388" y="302" fill="#b6c4d5">G</text>
+<rect x="0" y="352" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="36" y="390" fill="#b6c4d5">P</text>
+<rect x="88" y="352" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="124" y="390" fill="#b6c4d5">Q</text>
+<rect x="176" y="352" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="212" y="390" fill="#b6c4d5">R</text>
+<rect x="264" y="352" width="72" height="72" rx="7" fill="#13243a" stroke="#31465e" stroke-width="1"/>
+<text x="300" y="390" fill="#b6c4d5">S</text>
+<rect x="352" y="352" width="72" height="72" rx="7" fill="#13243a" stroke="#b69b68" stroke-width="2"/>
+<text x="388" y="390" fill="#e9d39b">T</text>
+</g>
+<g font-family="monospace" fill="#71859d" font-size="13" letter-spacing="4"><text x="190" y="585">V4</text><text x="630" y="585" text-anchor="end">6ABOXEJ</text></g>
+<g fill="none" stroke="#6b7e96" opacity=".6"><path d="M190 600h120m320 0h120"/><circle cx="410" cy="600" r="3" fill="#c8aa70" stroke="none"/></g>
+<text x="410" y="654" fill="#516780" font-family="monospace" font-size="10" text-anchor="middle" letter-spacing="5">THE ORDER IS NOT LINEAR</text>
+</svg>
